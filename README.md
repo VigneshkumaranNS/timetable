@@ -116,7 +116,8 @@ Execute the program
 
 # OUTPUT
 
-![Uploading table.png…]()
+
+
 
 # HTML VALIDATOR
 
