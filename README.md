@@ -116,10 +116,12 @@ Execute the program
 
 # OUTPUT
 
+![table](https://user-images.githubusercontent.com/119484483/215392907-efca1041-c756-4eca-b0d7-66d188fa38d5.png)
 
 
 # HTML VALIDATOR
 
+![tablevalid](https://user-images.githubusercontent.com/119484483/215392924-2dbf9259-b3c1-4062-bb98-4fc12bd1a358.png)
 
 
 # RESULT
